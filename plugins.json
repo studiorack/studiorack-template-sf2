@@ -1,0 +1,41 @@
+{
+  "plugins": [
+    {
+      "author": "Kim T",
+      "homepage": "https://github.com/studiorack/studiorack-template-sf2/",
+      "name": "Studiorack Template SF2",
+      "description": "Example SF2 instrument",
+      "tags": [
+        "Example",
+        "Instrument",
+        "Template",
+        "sf2"
+      ],
+      "version": "0.0.1",
+      "id": "studiorack-template-sf2",
+      "date": "2022-06-05T07:00:00.000Z",
+      "files": {
+        "audio": {
+          "name": "studiorack-template-sf2.flac",
+          "size": 57210
+        },
+        "image": {
+          "name": "studiorack-template-sf2.jpg",
+          "size": 79890
+        },
+        "linux": {
+          "name": "studiorack-template-sf2.zip",
+          "size": 234000
+        },
+        "mac": {
+          "name": "studiorack-template-sf2.zip",
+          "size": 234000
+        },
+        "win": {
+          "name": "studiorack-template-sf2.zip",
+          "size": 234000
+        }
+      }
+    }
+  ]
+}
